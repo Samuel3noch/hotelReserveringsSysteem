@@ -24,7 +24,6 @@
 ```plaintext
 hotelReservingsSysteem/          # Root project
 |
-
 │
 ├─ 
 └─ 
